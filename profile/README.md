@@ -12,7 +12,7 @@
 
 *Build a life. Take a risk. Leave your mark.*
 
-[The Experience](#the-experience) &nbsp;&bull;&nbsp; [Our Focus](#what-were-building) &nbsp;&bull;&nbsp; [Development](#development-journey) &nbsp;&bull;&nbsp; [FAQ](#frequently-asked-questions)
+[The Experience](#the-experience) &nbsp;&bull;&nbsp; [Our Focus](#what-were-building) &nbsp;&bull;&nbsp; [**PUBLIC ROADMAP**](https://github.com/TheHustle5M/.github/blob/main/profile/ROADMAP.md) &nbsp;&bull;&nbsp; [FAQ](#frequently-asked-questions)
 
 </div>
 
@@ -86,6 +86,10 @@ The most memorable roleplay rarely follows a script. **We're designing the space
 
 ## Development journey
 
+**[Explore the public development roadmap →](https://github.com/TheHustle5M/.github/blob/main/profile/ROADMAP.md)**
+
+Our public roadmap is based on the real milestones and gameplay workstreams tracked in private development. It covers what's planned, what's being tested, and where we're headed without exposing internal repositories.
+
 <div align="center">
 
 **FOUNDATION** &nbsp; ➜ &nbsp; **ALPHA** &nbsp; ➜ &nbsp; **BETA** &nbsp; ➜ &nbsp; **LAUNCH**
@@ -95,11 +99,11 @@ The most memorable roleplay rarely follows a script. **We're designing the space
 | Stage | What it means |
 | :--- | :--- |
 | **01 / Foundation — Current focus** | Establishing core gameplay foundations, prototyping interactions, and connecting the essential systems. |
-| **02 / Alpha — Planned** | Early hands-on testing of the core player experience, reliability, and gameplay loops. |
-| **03 / Beta — Planned** | Broader testing, balance improvements, refinements, and feedback-driven iteration. |
-| **04 / Launch — Future** | Opening access when the experience is ready for people to make it their own. |
+| **02 / Alpha — Nov 30, 2026 target** | Early hands-on testing of the core player experience, reliability, and gameplay loops. |
+| **03 / Beta — Jan 30, 2027 target** | Broader testing, balance improvements, refinements, and feedback-driven iteration. |
+| **04 / Launch — May 30, 2027 target** | Opening access when the experience is ready for people to make it their own. |
 
-**No public launch date has been announced.** We would rather build something worth spending time in than publish a countdown we can't stand behind.
+**These are internal target dates, not announced public release dates.** Each milestone is subject to testing, scope, and readiness. The [detailed public roadmap](https://github.com/TheHustle5M/.github/blob/main/profile/ROADMAP.md) tracks our current priorities.
 
 ### How we're approaching development
 
